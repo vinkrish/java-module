@@ -1,0 +1,7 @@
+.metadata/*
+
+*.class
+.settings/*
+bin/*
+*.DS_Store
+*/.settings/*
